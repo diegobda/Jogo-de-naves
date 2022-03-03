@@ -2,11 +2,11 @@
 
 <h2>Telas Games</h2>
 <figure>
-  <img src="imagem.jpg" alt="pagina Inicial">
+  <img src="https://raw.githubusercontent.com/diegobda/Jogo-de-naves/main/imgs/layout-Inicia.jpg" alt="pagina Inicial">
   <figcaption>pagina Inicial</figcaption>
-  <img src="imagem.jpg" alt="pagina Jogo">
+  <img src="https://github.com/diegobda/Jogo-de-naves/blob/main/imgs/layout-jogo.jpg" alt="pagina Jogo">
   <figcaption>pagina Jogo</figcaption>
-  <img src="imagem.jpg" alt="pagina End">
+  <img src="https://raw.githubusercontent.com/diegobda/Jogo-de-naves/main/imgs/layout-end.jpg" alt="pagina End">
   <figcaption>pagina End</figcaption>
 
 <p>Version demo online</p>
