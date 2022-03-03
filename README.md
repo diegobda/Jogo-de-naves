@@ -10,7 +10,7 @@
   <figcaption>pagina End</figcaption>
 
 <p>Version demo online</p>
-Abra em [http://localhost:3000](http://localhost:3000/) .
+Abra em https://diegobda.github.io/Jogo-de-naves/
 
 
 
